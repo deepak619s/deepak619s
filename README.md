@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate DevOps from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak619s&label=Profile%20views&color=0e75b6&style=flat" alt="deepak619s" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **DataBase**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **Software Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/deepak619s](https://github.com/deepak619s)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Front-end and Back-end Technologies**
 
 - 📫 How to reach me **sinhadeepak619@gmail.com**
 
