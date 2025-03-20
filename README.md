@@ -1,4 +1,4 @@
-<!-- Custom Banner -->
+<!-- Heading -->
 <h1 align="center">Hi there 👋, I'm Deepak Sinha</h1>
 <h3 align="center">🚀 Passionate Software Engineer from India 🇮🇳</h3>
 
