@@ -85,8 +85,8 @@
 ---
 
 ### 🌟 Featured Projects
-🚀 **[URL Shortener](https://github.com/deepak619s/url-shortener)** - A fast and efficient URL shortener with Node.js.  
-🌐 **[Portfolio](https://github.com/deepak619s/portfolio)** - My personal portfolio website using Html, Css and JavaScript. 
+🚀 **[URL Shortener]** - A fast and efficient URL shortener with Node.js.  
+🌐 **[Portfolio]** - My personal portfolio website using Html, Css and JavaScript. 
 
 ---
 
