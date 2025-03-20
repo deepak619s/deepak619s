@@ -84,12 +84,6 @@
 
 ---
 
-### 🌟 Featured Projects
-🚀 **[URL Shortener]** - A fast and efficient URL shortener with Node.js.  
-🌐 **[Portfolio]** - My personal portfolio website using Html, Css and JavaScript. 
-
----
-
 ### 🎨 Fun Section
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Code+is+poetry;Turning+ideas+into+reality;Building+the+future" alt="Typing SVG" />
