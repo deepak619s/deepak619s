@@ -116,13 +116,6 @@
 
 ---
 
-### ✍️ Recent Blog Posts
-- [How I Built a URL Shortener with Node.js](https://your-blog-link.com/url-shortener)  
-- [Top 5 React Tips for Beginners](https://your-blog-link.com/react-tips)  
-- [Understanding MongoDB for MERN Stack](https://your-blog-link.com/mongodb-mern)  
-
----
-
 ### 🌟 Fun Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepak619s&theme=dracula" alt="Profile Summary" />
