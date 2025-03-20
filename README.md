@@ -137,13 +137,5 @@
 
 ---
 
-### ☕ Support Me
-<p align="center">
-  <a href="https://buymeacoffee.com/deepak619s"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
-  <a href="https://github.com/sponsors/deepak619s"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors"></a>
-</p>
-
----
-
 📅 **Last Updated:** March 20, 2025  
 🚀 **Proudly created with ❤️ by Deepak Sinha**
