@@ -1,41 +1,149 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<!-- Custom Banner -->
+<h1 align="center">Hi there 👋, I'm Deepak Sinha</h1>
+<h3 align="center">🚀 Passionate Software Engineer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak619s&label=Profile%20views&color=0e75b6&style=flat" alt="deepak619s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak619s" alt="deepak619s" /></a> </p>
-
-- 🔭 I’m currently working on [Hotel Website](https://therajbliss.in/)
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **DataBase**
-
-- 🤝 I’m looking for help with **Software Developer**
-
-- 👨‍💻 All of my projects are available at [https://github.com/deepak619s](https://github.com/deepak619s)
-
-- 💬 Ask me about **Front-end and Back-end Technologies**
-
-- 📫 How to reach me **sinhadeepak619@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deepaksinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaksinha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak sinha" height="30" width="40" /></a>
-<a href="https://fb.com/nishant anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nishant anand" height="30" width="40" /></a>
-<a href="https://instagram.com/sinhadeepak619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinhadeepak619" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepak_sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepak_sinha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepak619s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/deepak619s"><img src="https://img.shields.io/github/followers/deepak619s?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/deepak619s?tab=stars"><img src="https://img.shields.io/github/stars/deepak619s?label=Stars&style=social" alt="GitHub Stars" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/deepak619s"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="deepak619s" /></a></p><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak619s&show_icons=true&locale=en&layout=compact" alt="deepak619s" /></p>
+### 🌟 About Me
+- 🔭 **Currently working on:** [URL Shortener Project](https://github.com/deepak619s/url-shortener)
+- 🌱 **Learning:** React, Node.js, Tailwind CSS, and exploring Web3
+- 👯 **Open to collaborate on:** Full-Stack, Database, or Open-Source Projects
+- 🤝 **Seeking help with:** Advanced MERN Stack Development and CI/CD Pipelines
+- 💻 **Experience:** 1+ years in software development, specializing in MERN stack
+- 📫 **Contact Me:** sinhadeepak619@gmail.com
+- ⚡ **Fun fact:** "I break stuff, then fix it better!"
+- 🎯 **2025 Goal:** Contribute to 10+ open-source projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak619s&show_icons=true&locale=en" alt="deepak619s" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak619s&" alt="deepak619s" /></p>
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/sinhadeepak619"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/Deepak Sinha"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mastodon.social/@Deepak Sinha"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" alt="Mastodon"></a>
+  <a href="mailto:sinhadeepak619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/deepak619s"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+<!-- Animated Snake Contribution -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,mongodb,mysql,prisma,tailwind,sass,git,github,postman,npm,yarn,pnpm,vite,redux" />
+</p>
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+#### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+#### DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📊 Skills Progress
+<p align="center">
+  <img src="https://img.shields.io/badge/React-80%25-%2361DAFB?logo=react&style=for-the-badge" alt="React Progress" />
+  <img src="https://img.shields.io/badge/Node.js-75%25-%233C873A?logo=node.js&style=for-the-badge" alt="Node.js Progress" />
+  <img src="https://img.shields.io/badge/MongoDB-70%25-%234EA94B?logo=mongodb&style=for-the-badge" alt="MongoDB Progress" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak619s&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=deepak619s&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak619s&theme=dracula&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+🚀 **[URL Shortener](https://github.com/deepak619s/url-shortener)** - A fast and efficient URL shortener with Node.js.  
+🌐 **[Portfolio](https://github.com/deepak619s/portfolio)** - My personal portfolio website using Html, Css and JavaScript. 
+
+---
+
+### 🎨 Fun Section
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Code+is+poetry;Turning+ideas+into+reality;Building+the+future" alt="Typing SVG" />
+</p>
+
+---
+
+📜 **Random Dev Quote:**  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+🎭 **Coding Meme:**  
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding GIF">
+</p>
+
+---
+
+#### Current Mood
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Debugging Struggle" width="250" />
+</p>
+
+---
+
+### ✍️ Recent Blog Posts
+- [How I Built a URL Shortener with Node.js](https://your-blog-link.com/url-shortener)  
+- [Top 5 React Tips for Beginners](https://your-blog-link.com/react-tips)  
+- [Understanding MongoDB for MERN Stack](https://your-blog-link.com/mongodb-mern)  
+
+---
+
+### 🌟 Fun Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepak619s&theme=dracula" alt="Profile Summary" />
+</p>
+
+---
+
+### 📡 Live Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak619s&theme=dracula" alt="Contribution Graph" />
+</p>
+
+---
+
+### ☕ Support Me
+<p align="center">
+  <a href="https://buymeacoffee.com/deepak619s"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+  <a href="https://github.com/sponsors/deepak619s"><img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors"></a>
+</p>
+
+---
+
+📅 **Last Updated:** March 20, 2025  
+🚀 **Proudly created with ❤️ by Deepak Sinha**
