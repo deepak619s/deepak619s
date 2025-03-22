@@ -54,7 +54,7 @@
 #### Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Drizzle ORM](https://img.shields.io/badge/Drizzle-3B82F6?style=for-the-badge&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### 🔗 REST API & Tools
+### REST API & Tools
 ![REST API](https://img.shields.io/badge/REST-API-%2300D09C.svg?style=for-the-badge&logo=rest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### DevOps & Tools
