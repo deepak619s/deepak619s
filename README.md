@@ -57,16 +57,24 @@
 ### REST API & Tools
 ![REST API](https://img.shields.io/badge/REST-API-%2300D09C.svg?style=for-the-badge&logo=rest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+#### Deployment & Tools 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
 
 ---
 
 ### 📊 Skills Progress
 <p align="center">
-  <img src="https://img.shields.io/badge/React-80%25-%2361DAFB?logo=react&style=for-the-badge" alt="React Progress" />
+  <img src="https://img.shields.io/badge/JavaScript-90%25-%23F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript Progress" />
+  <img src="https://img.shields.io/badge/React-85%25-%2361DAFB?logo=react&style=for-the-badge" alt="React Progress" />
   <img src="https://img.shields.io/badge/Node.js-75%25-%233C873A?logo=node.js&style=for-the-badge" alt="Node.js Progress" />
+  <img src="https://img.shields.io/badge/Express.js-75%25-%23000000?logo=express&style=for-the-badge" alt="Express.js Progress" />
   <img src="https://img.shields.io/badge/MongoDB-70%25-%234EA94B?logo=mongodb&style=for-the-badge" alt="MongoDB Progress" />
+  <img src="https://img.shields.io/badge/MySQL-75%25-%234479A1?logo=mysql&style=for-the-badge" alt="MySQL Progress" />
+  <img src="https://img.shields.io/badge/Drizzle-50%25-%232D3748?logo=drizzle&style=for-the-badge" alt="Drizzle Progress" />
+  <img src="https://img.shields.io/badge/TailwindCSS-60%25-%2306B6D4?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS Progress" />
+  <img src="https://img.shields.io/badge/Bootstrap-65%25-%237952B3?logo=bootstrap&style=for-the-badge" alt="Bootstrap Progress" />
+  <img src="https://img.shields.io/badge/Git-80%25-%23F05033?logo=git&style=for-the-badge" alt="Git Progress" />
+  <img src="https://img.shields.io/badge/GitHub-75%25-%23121011?logo=github&style=for-the-badge" alt="GitHub Progress" />
 </p>
 
 ---
