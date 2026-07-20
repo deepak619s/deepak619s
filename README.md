@@ -193,7 +193,7 @@ Amity University • 2024 • CGPA: 7.61
 ## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepak619s&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-iota-puce.vercel.app/?username=deepak619s&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 ## 📊 Contribution Graph
