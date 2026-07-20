@@ -182,12 +182,12 @@ Amity University • 2024 • CGPA: 7.61
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://deepak619s.vercel.app/api?username=deepak619s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats-rho-nine-26.vercel.app/api?username=deepak619s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=deepak619s&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img height="170" src="https://deepak619s.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-rho-nine-26.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🏆 GitHub Achievements
