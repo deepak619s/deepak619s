@@ -198,8 +198,8 @@ Amity University • 2024 • CGPA: 7.61
 
 ## 📊 Contribution Graph
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=deepak619s&theme=algolia&no-frame=true&row=1&column=7"/>
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak619s&theme=tokyo-night&hide_border=true" width="95%"/> 
 </div>
 
 ## 🐍 Contribution Snake
