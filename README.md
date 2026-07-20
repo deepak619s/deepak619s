@@ -87,8 +87,10 @@ fun_fact: "I break stuff, then fix it better."
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,prisma,tailwind,bootstrap,sass,git,github,postman,vercel,netlify,render,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,prisma,tailwind,bootstrap,sass,git,github,postman,vercel,netlify,vscode" />
 </div>
+
+<br/>
 
 ### ☁️ Deployment & Hosting
 
