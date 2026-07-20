@@ -40,17 +40,21 @@ experience:
   - Webnet Technologies (Frontend Intern)
 
 specialization:
-  - React.js · Node.js · Express.js
-  - MongoDB · MySQL · PostgreSQL
+  - React.js
+  - Node.js
+  - Express.js
+  - MongoDB
+  - MySQL
+  - PostgreSQL
 
 currently_learning:
-  - Next.js · TypeScript · Docker
-  - System Design · CI/CD
+  - Next.js
 
 currently_building:
-  URL Shortener with Authentication & Analytics
+  - Full-Stack Web Applications
 
 open_to:
+  - Software Engineer Roles
   - Full-Stack Opportunities
   - Backend Development Roles
   - Open Source Contributions
@@ -170,9 +174,8 @@ Internal billing management application used by company teams.
 
 ## 🎓 Education
 
-**B.Tech** — Amity University · 2024 · CGPA 7.61
-**Senior Secondary** — Park Mount Public School · 2020 · 71.75%
-**Secondary** — New B.D Public School · 2018 · 75.40%
+**Bachelor of Technology (B.Tech)**  
+Amity University • 2024 • CGPA: 7.61
 
 <br/>
 
