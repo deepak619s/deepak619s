@@ -209,11 +209,21 @@ Internal billing management application used by company teams.
 
 <br/>
 
-<div align="center">
-<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Debugging Struggle" width="230" />
-<br/>
-<sub><i>Current mood: it works on my machine 🙃</i></sub>
-</div>
+🎭 *Coding Meme:*
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding GIF">
+  <br/>
+  <sub><i>Me, at 2 AM, convinced this is the last bug 🐛</i></sub>
+</p>
+
+---
+
+#### Current Mood
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Debugging Struggle" width="250" />
+  <br/>
+  <sub><i>It worked yesterday. I changed nothing. 😵‍💫</i></sub>
+</p>
 
 <br/>
 
