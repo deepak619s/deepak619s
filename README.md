@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Hi 👋, I'm Deepak Sinha
@@ -75,22 +74,14 @@ open_to:
 
 fun_fact:
   "I break stuff, then fix it better."
-````
-
----
-
-## 💼 Professional Highlights
-
-* 🚀 Built backend modules for **BillZilla**, an internal billing management platform at SPECEM
-* ⚡ Optimized and debugged **10+ application modules**, improving performance and stability
-* 🔐 Developed authentication systems, REST APIs, and full-stack applications
-* 🌐 Experienced in deploying applications using Vercel, Netlify, and Render
-* 🤝 Collaborated with teams using Git, GitHub, and Agile development workflows
-* 📚 Passionate about scalable backend architecture and modern web development
-
----
-
-## 🛠️ Tech Stack
+💼 Professional Highlights
+🚀 Built backend modules for BillZilla, an internal billing management platform at SPECEM
+⚡ Optimized and debugged 10+ application modules, improving performance and stability
+🔐 Developed authentication systems, REST APIs, and full-stack applications
+🌐 Experienced in deploying applications using Vercel, Netlify, and Render
+🤝 Collaborated with teams using Git, GitHub, and Agile development workflows
+📚 Passionate about scalable backend architecture and modern web development
+🛠️ Tech Stack
 
 <div align="center">
 
@@ -98,66 +89,51 @@ fun_fact:
 
 </div>
 
----
+🎯 Currently Focusing On
+Next.js App Router
+TypeScript
+PostgreSQL
+Docker
+CI/CD Pipelines
+Scalable Backend Architecture
+System Design Fundamentals
+🚀 Featured Projects
 
-## 🎯 Currently Focusing On
-
-* Next.js App Router
-* TypeScript
-* PostgreSQL
-* Docker
-* CI/CD Pipelines
-* Scalable Backend Architecture
-* System Design Fundamentals
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
+<table> <tr>
 
 <td width="50%" valign="top">
 
-### 🔐 MERN Admin Panel
+🔐 MERN Admin Panel
 
 Full-stack admin dashboard with authentication, role-based access control, REST APIs, and dynamic admin/user views.
 
-**Tech Stack**
+Tech Stack
 
 React • Node.js • Express.js • MongoDB • JWT
 
 <br>
 
-<a href="https://github.com/deepak619s/mern-stack-with-admin-panel">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/deepak619s/mern-stack-with-admin-panel"> <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="https://mern-stack-with-admin-panel-frontend.vercel.app">
-<img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://mern-stack-with-admin-panel-frontend.vercel.app"> <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛒 Ecommerce Website
+🛒 Ecommerce Website
 
 Responsive ecommerce platform with product filtering, routing, and cart management.
 
-**Tech Stack**
+Tech Stack
 
 React • JavaScript • Bootstrap
 
 <br>
 
-<a href="https://github.com/deepak619s/react-ecommerce">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/deepak619s/react-ecommerce"> <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="https://deepak-react-amazon-ecommerce.netlify.app">
-<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
+<a href="https://deepak-react-amazon-ecommerce.netlify.app"> <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a>
 
 </td>
 
@@ -167,71 +143,58 @@ React • JavaScript • Bootstrap
 
 <td width="50%" valign="top">
 
-### 🔗 URL Shortener + Authentication
+🔗 URL Shortener + Authentication
 
 Custom URL shortening platform with authentication, click tracking, and analytics.
 
-**Tech Stack**
+Tech Stack
 
 Node.js • Express.js • Drizzle ORM • MySQL
 
 <br>
 
-<a href="https://github.com/deepak619s/express-drizzle-authentication-url-shortener-registration-login-page">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/deepak619s/express-drizzle-authentication-url-shortener-registration-login-page"> <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="https://express-url-shortener-aeqp.onrender.com">
-<img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
+<a href="https://express-url-shortener-aeqp.onrender.com"> <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧾 BillZilla (SPECEM)
+🧾 BillZilla (SPECEM)
 
 Internal billing management application used by company teams.
 
-#### Contributions
+Contributions
+Backend development using Node.js and Express.js
+Billing workflow implementation
+Debugging and optimization of 10+ modules
+Performance and stability improvements
 
-* Backend development using Node.js and Express.js
-* Billing workflow implementation
-* Debugging and optimization of 10+ modules
-* Performance and stability improvements
-
-**Status:** Private/Internal Project
+Status: Private/Internal Project
 
 </td>
 
-</tr>
-</table>
+</tr> </table>
 
----
-
-## 💼 Experience
-
-### Associate Software Engineer — SPECEM
+💼 Experience
+Associate Software Engineer — SPECEM
 
 📍 Patna, Bihar | Jan 2024 – Sep 2024
 
-* Developed backend functionalities for BillZilla using Node.js and Express.js
-* Optimized and debugged 10+ application modules
-* Worked with Git-based development workflows
-* Collaborated closely with developers and stakeholders
-
-### Frontend Intern — Webnet Technologies
+Developed backend functionalities for BillZilla using Node.js and Express.js
+Optimized and debugged 10+ application modules
+Worked with Git-based development workflows
+Collaborated closely with developers and stakeholders
+Frontend Intern — Webnet Technologies
 
 📍 Patna, Bihar | Jun 2023 – Aug 2023
 
-* Built responsive UI components using HTML, CSS, and JavaScript
-* Improved performance and browser compatibility
-* Contributed to multiple internal projects
-* Enhanced accessibility and user experience
-
----
-
-## 📈 GitHub Analytics
+Built responsive UI components using HTML, CSS, and JavaScript
+Improved performance and browser compatibility
+Contributed to multiple internal projects
+Enhanced accessibility and user experience
+📈 GitHub Analytics
 
 <div align="center">
 
@@ -247,9 +210,7 @@ Internal billing management application used by company teams.
 
 </div>
 
----
-
-## 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <div align="center">
 
@@ -257,9 +218,7 @@ Internal billing management application used by company teams.
 
 </div>
 
----
-
-## 📊 Contribution Graph
+📊 Contribution Graph
 
 <div align="center">
 
@@ -267,9 +226,7 @@ Internal billing management application used by company teams.
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
@@ -277,38 +234,26 @@ Internal billing management application used by company teams.
 
 </div>
 
----
-
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
-<a href="mailto:sinhadeepak619@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<a href="mailto:sinhadeepak619@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
 
-<a href="https://www.linkedin.com/in/deepak-sinha-/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<a href="https://www.linkedin.com/in/deepak-sinha-/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a>
 
-<a href="https://github.com/deepak619s">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<a href="https://github.com/deepak619s"> <img src="https://skillicons.dev/icons?i=github" /> </a>
 
 </div>
 
----
+💡 Developer Philosophy
 
-## 💡 Developer Philosophy
+Write clean code.
+Build useful products.
+Learn continuously.
+Stay consistent.
 
-> Write clean code.
-> Build useful products.
-> Learn continuously.
-> Stay consistent.
-
----
-
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 I'm always open to discussing:
 
@@ -317,7 +262,4 @@ I'm always open to discussing:
 🌐 Open Source Collaboration
 💼 Software Engineering Opportunities
 
-📫 **[sinhadeepak619@gmail.com](mailto:sinhadeepak619@gmail.com)**
-
-```
-```
+📫 sinhadeepak619@gmail.com
