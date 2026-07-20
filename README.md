@@ -208,8 +208,6 @@ Amity University • 2024 • CGPA: 7.61
 <img src="https://raw.githubusercontent.com/deepak619s/deepak619s/output/github-contribution-grid-snake.svg"/>
 </div>
 
-<sub>⚠️ This needs a GitHub Action running in your profile repo to generate the SVG — see `snake.yml` below, add it once and it self-updates daily.</sub>
-
 <br/>
 
 🎭 *Coding Meme:*
