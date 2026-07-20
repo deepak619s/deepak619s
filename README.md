@@ -182,12 +182,12 @@ Amity University • 2024 • CGPA: 7.61
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepak619s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepak619s&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 <img height="170" src="https://streak-stats.demolab.com?user=deepak619s&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 ## 🏆 GitHub Achievements
@@ -199,7 +199,7 @@ Amity University • 2024 • CGPA: 7.61
 ## 📊 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak619s&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deepak619s&theme=algolia&no-frame=true&row=1&column=7"/>
 </div>
 
 ## 🐍 Contribution Snake
