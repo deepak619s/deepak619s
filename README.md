@@ -92,7 +92,7 @@ fun_fact: "I break stuff, then fix it better."
 
 ### 🎯 Currently Focusing On
 
-`Next.js App Router` · `TypeScript` · `PostgreSQL` · `Docker` · `CI/CD Pipelines` · `Scalable Backend Architecture` · `System Design Fundamentals`
+`Next.js` · `Full-Stack Web Development` · `Backend Engineering` · `Scalable REST APIs` · `Modern JavaScript`
 
 <br/>
 
