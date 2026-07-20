@@ -1,136 +1,242 @@
-<!-- Heading -->
-<h1 align="center">Hi there 👋, I'm Deepak Sinha</h1>
-<h3 align="center">🚀 Passionate Software Engineer from India 🇮🇳</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepak619s&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/deepak619s"><img src="https://img.shields.io/github/followers/deepak619s?label=Follow&style=social" alt="GitHub Followers" /></a>
-  <a href="https://github.com/deepak619s?tab=stars"><img src="https://img.shields.io/github/stars/deepak619s?label=Stars&style=social" alt="GitHub Stars" /></a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
-
----
-
-### 🌟 About Me
-- 🔭 *Currently working on:* [URL Shortener Project](https://github.com/deepak619s/express-drizzle-authentication-url-shortener-registration-login-page)
-- 🌱 *Learning:* React, Node.js, Tailwind CSS, and exploring Web3
-- 👯 *Open to collaborate on:* Full-Stack, Database, or Open-Source Projects
-- 🤝 *Seeking help with:* Advanced MERN Stack Development and CI/CD Pipelines
-- 💻 *Experience:* 1+ years in software development, specializing in MERN stack
-- 📫 *Contact Me:* sinhadeepak619@gmail.com
-- ⚡ *Fun fact:* "I break stuff, then fix it better!"
-- 🎯 *2025 Goal:* Contribute to 10+ open-source projects
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/sinhadeepak619"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.linkedin.com/in/deepak-sinha-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sinhadeepak619@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<!-- Animated Snake Contribution -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+# Hi 👋, I'm Deepak Sinha
+
+### Associate Software Engineer • MERN Stack Developer • Backend Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=38BDF8&center=true&vCenter=true&width=900&lines=Associate+Software+Engineer;MERN+Stack+Developer;Backend+Engineer+in+Progress;Building+Scalable+Web+Applications;Node.js+%7C+Express.js+%7C+React.js;Turning+Ideas+Into+Products;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/deepak619s"><img src="https://img.shields.io/badge/GitHub-deepak619s-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/deepak-sinha-/"><img src="https://img.shields.io/badge/LinkedIn-Deepak_Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sinhadeepak619@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=deepak619s&label=Profile%20Views&color=38BDF8&style=flat-square" />
+
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,prisma,tailwind,bootstrap,sass,git,github,postman,vercel,netlify,vite,redux" />
-</p>
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+## 🧭 About Me
 
-#### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+```yaml
+name: Deepak Sinha
+location: Gurugram, Haryana, India
 
-#### Databases & ORMs & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Drizzle ORM](https://img.shields.io/badge/Drizzle-3B82F6?style=for-the-badge&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Compass](https://img.shields.io/badge/Compass-%23F50057.svg?style=for-the-badge&logo=compass&logoColor=white) ![Atlas](https://img.shields.io/badge/Atlas-%2300A3E0.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+role:
+  - Associate Software Engineer
+  - Full-Stack Developer
+  - Backend Enthusiast
 
-### REST API & Tools
-![REST API](https://img.shields.io/badge/REST-API-%2300D09C.svg?style=for-the-badge&logo=rest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+experience:
+  - SPECEM (Associate Software Engineer)
+  - Webnet Technologies (Frontend Intern)
 
-#### Deployment & Tools 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)  
+specialization:
+  - React.js · Node.js · Express.js
+  - MongoDB · MySQL · PostgreSQL
 
----
+currently_learning:
+  - Next.js · TypeScript · Docker
+  - System Design · CI/CD
 
-### 📊 Skills Progress
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-90%25-%23F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript Progress" />
-  <img src="https://img.shields.io/badge/React-85%25-%2361DAFB?logo=react&style=for-the-badge" alt="React Progress" />
-  <img src="https://img.shields.io/badge/Node.js-75%25-%233C873A?logo=node.js&style=for-the-badge" alt="Node.js Progress" />
-  <img src="https://img.shields.io/badge/Express.js-75%25-%23000000?logo=express&style=for-the-badge" alt="Express.js Progress" />
-  <img src="https://img.shields.io/badge/MongoDB-70%25-%234EA94B?logo=mongodb&style=for-the-badge" alt="MongoDB Progress" />
-  <img src="https://img.shields.io/badge/MySQL-75%25-%234479A1?logo=mysql&style=for-the-badge" alt="MySQL Progress" />
-  <img src="https://img.shields.io/badge/Drizzle-50%25-%232D3748?logo=drizzle&style=for-the-badge" alt="Drizzle Progress" />
-  <img src="https://img.shields.io/badge/TailwindCSS-60%25-%2306B6D4?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS Progress" />
-  <img src="https://img.shields.io/badge/Bootstrap-65%25-%237952B3?logo=bootstrap&style=for-the-badge" alt="Bootstrap Progress" />
-  <img src="https://img.shields.io/badge/Git-80%25-%23F05033?logo=git&style=for-the-badge" alt="Git Progress" />
-  <img src="https://img.shields.io/badge/GitHub-75%25-%23121011?logo=github&style=for-the-badge" alt="GitHub Progress" />
-</p>
+currently_building:
+  URL Shortener with Authentication & Analytics
 
----
+open_to:
+  - Full-Stack Opportunities
+  - Backend Development Roles
+  - Open Source Contributions
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak619s&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=deepak619s&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+fun_fact: "I break stuff, then fix it better."
+```
 
----
+</td>
+<td width="40%" align="center">
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepak619s&theme=dracula&margin-w=15" alt="GitHub Trophies" />
-</p>
+<img width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎨 Fun Section
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00C4CC&center=true&vCenter=true&width=435&lines=Code+is+poetry;Turning+ideas+into+reality;Building+the+future" alt="Typing SVG" />
-</p>
+## 💼 Professional Highlights
 
----
+- 🚀 Built backend modules for **BillZilla**, an internal billing management platform at SPECEM
+- ⚡ Optimized and debugged **10+ application modules**, improving performance and stability
+- 🔐 Developed authentication systems, REST APIs, and full-stack applications
+- 🌐 Experienced deploying applications on **Vercel, Netlify, and Render**
+- 🤝 Collaborated with teams using **Git, GitHub**, and Agile workflows
+- 📚 Passionate about scalable backend architecture and modern web development
 
-📜 *Random Dev Quote:*  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<br/>
 
----
+## 🛠️ Tech Stack
 
-🎭 *Coding Meme:*  
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding GIF">
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,prisma,tailwind,bootstrap,sass,git,github,postman,vercel,netlify,render,vscode" />
+</div>
 
----
+### 🎯 Currently Focusing On
 
-#### Current Mood
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Debugging Struggle" width="250" />
-</p>
+`Next.js App Router` · `TypeScript` · `PostgreSQL` · `Docker` · `CI/CD Pipelines` · `Scalable Backend Architecture` · `System Design Fundamentals`
 
----
+<br/>
 
-### 🌟 Fun Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepak619s&theme=dracula" alt="Profile Summary" />
-</p>
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📡 Live Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak619s&theme=dracula" alt="Contribution Graph" />
-</p>
+### 🔐 MERN Admin Panel
+Full-stack admin dashboard with authentication, role-based access control, REST APIs, and dynamic admin/user views.
 
----
-📅 *Last Updated:* March 30, 2025  
-🚀 *Proudly created with ❤️ by Deepak Sinha*
+**Tech Stack:** React · Node.js · Express.js · MongoDB · JWT
+
+[![Source](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepak619s/mern-stack-with-admin-panel)
+[![Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mern-stack-with-admin-panel-frontend.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Ecommerce Website
+Responsive ecommerce platform with product filtering, routing, and live cart management.
+
+**Tech Stack:** React · JavaScript · Bootstrap
+
+[![Source](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepak619s/react-ecommerce)
+[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://deepak-react-amazon-ecommerce.netlify.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 URL Shortener + Authentication
+Custom URL shortening platform with authentication, click tracking, and analytics.
+
+**Tech Stack:** Node.js · Express.js · Drizzle ORM · MySQL
+
+[![Source](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepak619s/express-drizzle-authentication-url-shortener-registration-login-page)
+[![Demo](https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://express-url-shortener-aeqp.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 BillZilla (SPECEM)
+Internal billing management application used by company teams.
+
+**Contributions:**
+- Backend development using Node.js and Express.js
+- Billing workflow implementation
+- Debugging and optimization of 10+ modules
+- Performance and stability improvements
+
+<sub>**Status:** Private / Internal Project</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💼 Experience
+
+**Associate Software Engineer — SPECEM**
+📍 Patna, Bihar | Jan 2024 – Sep 2024
+- Developed backend functionalities for BillZilla using Node.js and Express.js
+- Optimized and debugged 10+ application modules
+- Worked with Git-based development workflows
+- Collaborated closely with developers and stakeholders
+
+**Frontend Intern — Webnet Technologies**
+📍 Patna, Bihar | Jun 2023 – Aug 2023
+- Built responsive UI components using HTML, CSS, and JavaScript
+- Improved performance and browser compatibility
+- Contributed to multiple internal projects
+- Enhanced accessibility and user experience
+
+<br/>
+
+## 🎓 Education
+
+**B.Tech** — Amity University · 2024 · CGPA 7.61
+**Senior Secondary** — Park Mount Public School · 2020 · 71.75%
+**Secondary** — New B.D Public School · 2018 · 75.40%
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepak619s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=deepak619s&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak619s&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=deepak619s&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
+
+## 📊 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak619s&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/deepak619s/deepak619s/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<sub>⚠️ This needs a GitHub Action running in your profile repo to generate the SVG — see `snake.yml` below, add it once and it self-updates daily.</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Debugging Struggle" width="230" />
+<br/>
+<sub><i>Current mood: it works on my machine 🙃</i></sub>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+<a href="mailto:sinhadeepak619@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/deepak-sinha-/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/deepak619s"><img src="https://skillicons.dev/icons?i=github" /></a>
+</div>
+
+<br/>
+
+## 💡 Developer Philosophy
+
+> Write clean code. Build useful products. Learn continuously. Stay consistent.
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+I'm always open to discussing 🚀 Full-Stack Development · ⚙️ Backend Engineering · 🌐 Open Source Collaboration · 💼 Software Engineering Opportunities
+
+📫 **sinhadeepak619@gmail.com**
+
+</div>
